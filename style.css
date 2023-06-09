@@ -1,0 +1,407 @@
+.body {
+  position: relative;
+  width: 2203.34px;
+  height: 8250px;
+
+  background: white;
+  transform: rotate(0.48deg);
+}
+.logo {
+  position: absolute;
+  width: 73px;
+  height: 25px;
+  left: 661.18px;
+  top: 2107.01px;
+
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+
+  transform: rotate(0.48deg);
+}
+.hi {
+  position: absolute;
+  width: 584px;
+  height: 152px;
+  left: 184.38px;
+  top: 519.98px;
+
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 60px;
+
+  color: #000000;
+
+  transform: rotate(0.48deg);
+}
+.aboutme {
+  position: absolute;
+  width: 248px;
+  height: 53px;
+  left: 834.15px;
+  top: 1150.41px;
+
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 60px;
+
+  color: #000000;
+
+  transform: rotate(0.48deg);
+}
+p {
+  position: absolute;
+  width: 955px;
+  height: 175px;
+  left: 744.95px;
+  top: 1381.68px;
+
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 147.5%;
+  /* or 35px */
+
+  color: #000000;
+
+  transform: rotate(0.48deg);
+}
+.Rectangle7 {
+  position: absolute;
+  width: 1338px;
+  height: 694px;
+  left: 240.54px;
+  top: 1821.49px;
+
+  background: #141414;
+  border-radius: 63px;
+  transform: rotate(0.48deg);
+}
+.skill {
+  position: absolute;
+  width: 126px;
+  height: 48px;
+  left: 868.76px;
+  top: 1917.73px;
+
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 60px;
+
+  color: white;
+
+  transform: rotate(0.48deg);
+}
+.Skill1 {
+  position: absolute;
+  width: 1276.07px;
+  height: 325px;
+  left: 277.12px;
+  top: 1992.8px;
+
+  background: url(104413-skills.png);
+  transform: rotate(0.48deg);
+}
+.ADOBE {
+  position: absolute;
+  width: 130px;
+  height: 25px;
+  left: 661.69px;
+  top: 2046.01px;
+
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+
+  transform: rotate(0.48deg);
+}
+.image1 {
+  position: absolute;
+  width: 609px;
+  height: 380.62px;
+  left: 176.67px;
+  top: 2766px;
+
+  background: url(60b6b54cca1a1af1b2a9acea_gallery01.jpg);
+  box-shadow: 14px 14px 12px -2px rgba(0, 0, 0, 0.25);
+  transform: rotate(0.48deg);
+}
+.image2 {
+  position: absolute;
+  width: 535.31px;
+  height: 422px;
+  left: 1133.95px;
+  top: 2736.97px;
+
+  background: url(academia-free-template.png);
+  transform: rotate(0.48deg);
+}
+.image3 {
+  position: absolute;
+  width: 579.52px;
+  height: 362.2px;
+  left: 172.63px;
+  top: 3251.98px;
+
+  background: url(6093279c6fa7384b57f6a0ba_luxegallery04.jpg);
+  filter: drop-shadow(17px 11px 25px rgba(0, 0, 0, 0.25));
+  transform: rotate(0.48deg);
+}
+.image4 {
+  position: absolute;
+  width: 746.65px;
+  height: 345px;
+  left: 914.27px;
+  top: 3297.16px;
+
+  background: url(softdash-website-template.png);
+  box-shadow: 10px 13px 14px -1px rgba(0, 0, 0, 0.25);
+  transform: rotate(0.48deg);
+}
+.image5 {
+  position: absolute;
+  width: 434.64px;
+  height: 271.65px;
+  left: 168.39px;
+  top: 3760.96px;
+
+  background: url(605ad501a6b1312acab311a8_faraday-gallery-01-p-1080.jpg);
+  filter: drop-shadow(12px 9px 15px rgba(0, 0, 0, 0.25));
+  transform: rotate(0.48deg);
+}
+.image6 {
+  position: absolute;
+  width: 595px;
+  height: 361.86px;
+  left: 1115.05px;
+  top: 3685.84px;
+
+  background: url(66445-en-automatico.png);
+  transform: rotate(0.48deg);
+}
+.image7 {
+  position: absolute;
+  width: 361px;
+  height: 396px;
+  left: 281.3px;
+  top: 1222px;
+
+  background: url(.png);
+  transform: rotate(0.48deg);
+}
+.image8 {
+  position: absolute;
+  width: 388px;
+  height: 426px;
+  left: 267.98px;
+  top: 1256.7px;
+
+  transform: rotate(0.48deg);
+}
+.image9 {
+  position: absolute;
+  width: 453.48px;
+  height: 450.88px;
+  left: 227.81px;
+  top: 1209.13px;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  transform: rotate(0.48deg);
+}
+.image10 {
+  position: absolute;
+  width: 750px;
+  height: 737px;
+  left: calc(50% - 750px / 2 + 304.24px);
+  top: calc(50% - 737px / 2 - 3540.01px);
+
+  background: url(93965-change-colors-at-great-design.png);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  transform: rotate(0.48deg);
+}
+h3 {
+  position: absolute;
+  width: 281px;
+  height: 69.9px;
+  left: 771.94px;
+  top: 4417.01px;
+
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 80px;
+
+  color: #000000;
+
+  transform: rotate(0.48deg);
+}
+.rectangle1 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 150.07px;
+  top: 4639.84px;
+
+  background: linear-gradient(
+    180deg,
+    #8c4b4b 0%,
+    #efbe9b 0.01%,
+    rgba(189, 164, 98, 0.89) 100%
+  );
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.rectangle2 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 694.99px;
+  top: 4651.38px;
+
+  background: linear-gradient(180deg, #de1fef 0%, #7b0854 100%);
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.rectangle3 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 1239.97px;
+  top: 4655.92px;
+
+  background: linear-gradient(
+    180deg,
+    #ff2380 1.87%,
+    rgba(199, 128, 255, 0.7) 51.62%,
+    rgba(18, 223, 125, 0.7) 100%
+  );
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.rectangle4 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 145.55px;
+  top: 5182.82px;
+
+  background: linear-gradient(
+    164.03deg,
+    #0078ce 11.13%,
+    rgba(124, 124, 124, 0) 119.23%
+  );
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.rectangle5 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 691.53px;
+  top: 5187.37px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(228, 245, 29, 0.38) 1.57%,
+    rgba(15, 15, 15, 0.65) 100%
+  );
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.rectangle6 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 1235.51px;
+  top: 5191.9px;
+
+  background: linear-gradient(
+    147.97deg,
+    #09ed12 19.24%,
+    rgba(38, 38, 38, 0) 138.04%
+  );
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.rectangle8 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 138.08px;
+  top: 5718.78px;
+
+  background: linear-gradient(
+    180deg,
+    #23ece0 0%,
+    rgba(190, 22, 218, 0.53) 100%
+  );
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.rectangle9 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 665.06px;
+  top: 5723.16px;
+
+  background: linear-gradient(
+    167.12deg,
+    #a78327 9.31%,
+    rgba(34, 138, 25, 0.41) 96.65%,
+    rgba(217, 217, 217, 0) 96.66%
+  );
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.rectangle10 {
+  position: absolute;
+  width: 398px;
+  height: 471px;
+  left: 1209.04px;
+  top: 5727.69px;
+
+  background: linear-gradient(
+    158.97deg,
+    #dd20a8 13.89%,
+    rgba(20, 168, 252, 0.48) 105.61%
+  );
+  border-radius: 57px;
+  transform: rotate(0.48deg);
+}
+.ui {
+  position: absolute;
+  width: 118px;
+  height: 45px;
+  left: 289.43px;
+  top: 4717px;
+
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #ffffff;
+
+  transform: rotate(0.48deg);
+}
