@@ -28,6 +28,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
+  cursor: pointer;
 }
 
 .main-container .nav-container .nav-links .nav-images {
@@ -62,6 +63,7 @@
   padding: 20px 40px;
   background: #d9d9d9;
   border-radius: 19px;
+  cursor: pointer;
 }
 .main-container .portfolio .front {
   display: flex;
@@ -104,6 +106,7 @@
   border-radius: 11px;
   width: 200px;
   margin-top: 36px;
+  cursor: pointer;
 }
 
 .main-container .about-me-img {
@@ -222,7 +225,7 @@
   line-height: 30px;
   color: #ffffff;
 }
-.main-container .project {
+.main-container .project-a {
   font-family: "Lexend";
   font-style: normal;
   font-weight: 600;
@@ -234,25 +237,499 @@
 .main-container .project-img-a {
   width: 50%;
   height: 50%;
-  box-shadow: 14px 14px 12px -2px rgba(0, 0, 0, 0.25);
+  width: 572px;
+  margin-left: 66px;
+  margin-top: 46px;
+  margin-bottom: -54px;
 }
+
 .main-container .project-img-b {
-  width: 50%;
-  height: 50%;
-  box-shadow: 14px 14px 12px -2px rgba(0, 0, 0, 0.25);
+  width: 458px;
+  margin-left: 938px;
+  margin-top: -320px;
 }
+
 .main-container .project-img-c {
-  width: 50%;
-  height: 50%;
-  box-shadow: 14px 14px 12px -2px rgba(0, 0, 0, 0.25);
+  width: 572px;
+  margin-left: 66px;
+  margin-top: 90px;
+  margin-bottom: -88px;
 }
 .main-container .project-img-d {
-  width: 50%;
-  height: 50%;
-  box-shadow: 14px 14px 12px -2px rgba(0, 0, 0, 0.25);
+  width: 616px;
+  margin-left: 788px;
+  margin-top: -218px;
 }
 .main-container .project-img-e {
-  width: 50%;
-  height: 50%;
-  box-shadow: 14px 14px 12px -2px rgba(0, 0, 0, 0.25);
+  width: 435px;
+  margin-left: 66px;
+  margin-top: 156px;
+}
+.main-container .project-img-f {
+  width: 572px;
+  margin-left: 812px;
+  margin-top: -340px;
+}
+.main-container .service {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 80px;
+  text-align: center;
+  margin-top: 382px;
+}
+.main-container .service-a {
+  background: linear-gradient(
+    180deg,
+    #8c4b4b 0%,
+    #efbe9b 0.01%,
+    rgba(189, 164, 98, 0.89) 100%
+  );
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-top: 174px;
+}
+.main-container .service-a .ui {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-a .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-a .img {
+  margin-bottom: -6px;
+}
+.main-container .service-b {
+  background: linear-gradient(180deg, #de1fef 0%, #7b0854 100%);
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-left: 516px;
+  margin-top: -472px;
+}
+.main-container .service-b .xd {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-b .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-b .img {
+  margin-bottom: -6px;
+}
+.main-container .service-c {
+  background: linear-gradient(
+    180deg,
+    #ff2380 1.87%,
+    rgba(199, 128, 255, 0.7) 51.62%,
+    rgba(18, 223, 125, 0.7) 100%
+  );
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-left: 1020px;
+  margin-top: -472px;
+}
+
+.main-container .service-c .figma-c {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-c .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-c .img {
+  margin-bottom: -6px;
+}
+.main-container .service-d {
+  background: linear-gradient(
+    164.03deg,
+    #0078ce 11.13%,
+    rgba(124, 124, 124, 0) 119.23%
+  );
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-top: 108px;
+}
+.main-container .service-d .wordpres-d {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-d .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-d .img {
+  margin-bottom: -6px;
+}
+.main-container .service-e {
+  background: linear-gradient(
+    180deg,
+    rgba(228, 245, 29, 0.38) 1.57%,
+    rgba(15, 15, 15, 0.65) 100%
+  );
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-left: 516px;
+  margin-top: -472px;
+}
+.main-container .service-e .wix-e {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-e .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-e .img {
+  margin-bottom: -6px;
+}
+.main-container .service-f {
+  background: linear-gradient(
+    147.97deg,
+    #09ed12 19.24%,
+    rgba(38, 38, 38, 0) 138.04%
+  );
+  border-radius: 57px;
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-left: 1020px;
+  margin-top: -472px;
+}
+.main-container .service-f .shopify-f {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-f .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-f .img {
+  margin-bottom: -6px;
+}
+.main-container .service-g {
+  background: linear-gradient(
+    180deg,
+    #23ece0 0%,
+    rgba(190, 22, 218, 0.53) 100%
+  );
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-top: 108px;
+}
+.main-container .service-g .canva-g {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-g .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-g .img {
+  margin-bottom: -6px;
+}
+.main-container .service-h {
+  background: linear-gradient(
+    167.12deg,
+    #a78327 9.31%,
+    rgba(34, 138, 25, 0.41) 96.65%,
+    rgba(217, 217, 217, 0) 96.66%
+  );
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-left: 516px;
+  margin-top: -472px;
+}
+.main-container .service-h .web-h {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-h .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-h .img {
+  margin-bottom: -6px;
+}
+.main-container .service-i {
+  background: linear-gradient(
+    158.97deg,
+    #dd20a8 13.89%,
+    rgba(20, 168, 252, 0.48) 105.61%
+  );
+  border-radius: 57px;
+  padding: 50px;
+  width: 398px;
+  height: 471px;
+  margin-left: 1020px;
+  margin-top: -472px;
+}
+.main-container .service-i .web-i {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 32px;
+}
+.main-container .service-i .view {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 228px 88px;
+  text-align: center;
+  cursor: pointer;
+}
+.main-container .service-i .img {
+  margin-bottom: -6px;
+}
+.main-container .name {
+  width: 486px;
+  height: 80px;
+  margin-left: 729px;
+  margin-top: 250px;
+  border-radius: 28px;
+  position: relative;
+  padding: 3px;
+  overflow: hidden;
+  background: linear-gradient(
+    93.67deg,
+    #c0bb36 46.98%,
+    rgba(46, 137, 13, 0.89) 100.5%
+  );
+}
+.main-container .name .name-info {
+  position: absolute;
+  background: #fff;
+  height: 74px;
+  width: 480px;
+  padding: 12px;
+  border-radius: 25px;
+  border: none;
+}
+
+.main-container .email {
+  width: 486px;
+  height: 80px;
+  margin-left: 729px;
+  margin-top: 42px;
+  border-radius: 28px;
+  position: relative;
+  padding: 3px;
+  overflow: hidden;
+  background: linear-gradient(
+    93.67deg,
+    #c0bb36 46.98%,
+    rgba(97, 0, 255, 0.89) 100.5%
+  );
+}
+.main-container .email .email-info {
+  position: absolute;
+  background: #fff;
+  height: 74px;
+  width: 480px;
+  padding: 12px;
+  border-radius: 25px;
+  border: none;
+}
+.main-container .msg {
+  width: 486px;
+  height: 183px;
+  margin-left: 729px;
+  margin-top: 42px;
+  border-radius: 28px;
+  position: relative;
+  background: linear-gradient(
+    93.67deg,
+    #c0369a 46.98%,
+    rgba(14, 41, 136, 0.890802) 100.49%,
+    rgba(46, 137, 13, 0.89) 100.5%
+  );
+
+  padding: 3px;
+  overflow: hidden;
+}
+.main-container .msg .msg-info {
+  position: absolute;
+  background: #fff;
+  height: 177px;
+  width: 480px;
+  padding: 12px;
+  border-radius: 25px;
+  border: none;
+}
+.main-container .send {
+  margin-left: 900px;
+  width: 168px;
+  height: 79px;
+  margin-top: 54px;
+  border-radius: 28px;
+  position: relative;
+  padding: 6px;
+  overflow: hidden;
+  background: linear-gradient(
+    93.67deg,
+    #c036aa 46.98%,
+    rgba(137, 95, 13, 0.89) 100.5%
+  );
+}
+.main-container .send .send-info {
+  position: absolute;
+  background: #fff;
+  height: 66px;
+  width: 156px;
+  padding: 27px;
+  border-radius: 30px;
+  border: none;
+  text-align: center;
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 12px;
+  color: #000000;
+  cursor: pointer;
+}
+.main-container .img-last {
+  width: 686px;
+  height: 529px;
+  left: 77px;
+  margin-top: -380px;
+  top: -350px;
+  margin-left: 120px;
+}
+.main-container .icon {
+  margin-left: 580px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 170px;
+  width: 516px;
+  cursor: pointer;
 }
